@@ -1,0 +1,201 @@
+{
+    "categories": {
+        "1": {
+            "name": "Novato",
+            "img": "",
+            "minScore": 0,
+            "levels": [
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10
+            ]
+        },
+        "2": {
+            "name": "Amateur",
+            "img": "",
+            "minScore": 0,
+            "levels": [
+                101,
+                102,
+                103,
+                104,
+                105,
+                106,
+                107,
+                108,
+                109,
+                110
+            ]
+        }
+    },
+    "levels": {
+        "1": {
+            "initialId": 28003,
+            "lastId": 8198,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "2": {
+            "initialId": 148455,
+            "lastId": 88755,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "3": {
+            "initialId": 91845,
+            "lastId": 363205,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "4": {
+            "initialId": 28021,
+            "lastId": 182906,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "5": {
+            "initialId": 161056,
+            "lastId": 35207,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "6": {
+            "initialId": 65230,
+            "lastId": 27992,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 8
+        },
+        "7": {
+            "initialId": 418560,
+            "lastId": 74229,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 10
+        },
+        "8": {
+            "initialId": 351478,
+            "lastId": 96341,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 13
+        },
+        "9": {
+            "initialId": 288230,
+            "lastId": 433177,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 17
+        },
+        "10": {
+            "initialId": 132098,
+            "lastId": 342229,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 20
+        },
+
+        "101": {
+            "initialId": 32467,
+            "lastId": 278359,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "102": {
+            "initialId": 59561,
+            "lastId": 255508,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "103": {
+            "initialId": 283628,
+            "lastId": 504849,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 0
+        },
+        "104": {
+            "initialId": 130365,
+            "lastId": 133964,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 12
+        },
+        "105": {
+            "initialId": 170527,
+            "lastId": 487969,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 15
+        },
+        "106": {
+            "initialId": 395693,
+            "lastId": 40433,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 18
+        },
+        "107": {
+            "initialId": 258923,
+            "lastId": 54781,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 21
+        },
+        "108": {
+            "initialId": 111873,
+            "lastId": 504849,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 23
+        },
+        "109": {
+            "initialId": 95810,
+            "lastId": 502670,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 25
+        },
+        "110": {
+            "initialId": 240306,
+            "lastId": 14132,
+            "isInitialPlayer": true,
+            "isLastPlayer": true,
+            "steps": 4,
+            "minScore": 26
+        }
+    }
+}
