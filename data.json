@@ -1,402 +1,719 @@
 {
   "1": {
-    "title": "¿Cuánto es 2 + 2?",
-    "options": ["4", "1", "2", "3"]
+    "title": "¿En cuántos días creó Dios los cielos, la tierra y al hombre? (Gn 2:1-3)",
+    "options": [
+      "6",
+      "5",
+      "7",
+      "8"
+    ]
   },
   "2": {
-    "title": "¿Cuánto es 4 + 4?",
-    "options": ["8", "12", "6", "16"]
+    "title": "¿De qué material Dios formó a la mujer? (Gn 2:22)",
+    "options": [
+      "De una costilla",
+      "Del polvo",
+      "Del aire",
+      "De la nada"
+    ]
   },
   "3": {
-    "title": "¿Cuánto es 6 + 6?",
-    "options": ["12", "18", "24", "9"]
+    "title": "¿Cómo se llamaba el hijo primogénito de Adán y Eva? (Gn 4)",
+    "options": [
+      "Caín",
+      "Set",
+      "Abel",
+      "Cam"
+    ]
   },
   "4": {
-    "title": "¿Cuánto es 8 + 8?",
-    "options": ["16", "32", "64", "24"]
+    "title": "¿Quién es considerado como el \"padre de los edomitas\"? (Gn 36:43)",
+    "options": [
+      "Esaú",
+      "Jacob",
+      "Isacc",
+      "Ismael"
+    ]
   },
   "5": {
-    "title": "¿Cuánto es 10 + 10?",
-    "options": ["20", "30", "40", "50"]
+    "title": "¿En qué día Dios separó las aguas de la tierra y las aguas de los cielos?  (Gn 1:6-10)",
+    "options": [
+      "2º día",
+      "1r día",
+      "4º día",
+      "3r día"
+    ]
   },
   "6": {
-    "title": "¿Cuánto es 12 + 12?",
-    "options": ["24", "36", "48", "60"]
+    "title": "¿Cómo se llamaba el lugar donde el Señor confundió las lenguas de toda la tierra después de que la gente construyera una ciudad y una torre?  (Gn 11:9)",
+    "options": [
+      "Babel",
+      "Jerusalén",
+      "Jardín del Edén",
+      "Harán"
+    ]
   },
   "7": {
-    "title": "¿Cuánto es 14 + 14?",
-    "options": ["28", "42", "56", "70"]
+    "title": "Esaú vendió su primogenitura por un plato de lentejas (Gn 25:29)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "8": {
-    "title": "¿Cuánto es 16 + 16?",
-    "options": ["32", "64", "48", "80"]
+    "title": "Qué nombre se le dio a Jacob porque había “luchado con Dios y con los hombres, y venció” (Gn 32:28)",
+    "options": [
+      "Israel",
+      "Padre de naciones",
+      "Padre de multitudes",
+      "No recibió ningún nombre"
+    ]
   },
   "9": {
-    "title": "¿Cuánto es 18 + 18?",
-    "options": ["36", "54", "72", "90"]
+    "title": "¿Quién soñó que el sol, la luna y las once estrellas se inclinaban ante él? (Gn 37:5)",
+    "options": [
+      "José",
+      "Jacob",
+      "Bilha",
+      "Rubén"
+    ]
   },
   "10": {
-    "title": "¿Cuánto es 20 + 20?",
-    "options": ["40", "60", "80", "100"]
+    "title": "¿Qué creó Dios en el primer día? (Gn 1:3)",
+    "options": [
+      "La luz",
+      "Las estrellas",
+      "El hombre",
+      "Los mares"
+    ]
   },
   "11": {
-    "title": "¿Cuánto es 22 + 22?",
-    "options": ["44", "66", "88", "110"]
+    "title": "¿Qué creó Dios en el segundo día? (Gn 1:7-8)",
+    "options": [
+      "La Atmósfera y el Firmamento, cielo",
+      "Los mares",
+      "El hombre",
+      "Las aves"
+    ]
   },
   "12": {
-    "title": "¿Cuánto es 24 + 24?",
-    "options": ["48", "72", "96", "120"]
+    "title": "¿Qué creó Dios en el tercer día? (Gn 1:9-13)",
+    "options": [
+      "La tierra, los mares y la vegetación",
+      "El firmamento o el cielo",
+      "Los animales terrestres y al hombre"
+    ]
   },
   "13": {
-    "title": "¿Cuánto es 26 + 26?",
-    "options": ["52", "78", "104", "130"]
+    "title": "¿Qué creó Dios en el cuarto día? (Gn 1:14-19)",
+    "options": [
+      "El sol, la luna y las estrellas",
+      "La tierra, los mares y la vegetación",
+      "El firmamento o el cielo"
+    ]
   },
   "14": {
-    "title": "¿Cuánto es 28 + 28?",
-    "options": ["56", "84", "112", "140"]
+    "title": "¿Qué creó Dios en el quinto día? (Gn 1:20-23)",
+    "options": [
+      "Los animales marinos y las aves",
+      "Los animales terrestres y al hombre",
+      "El firmamento o el cielo"
+    ]
   },
   "15": {
-    "title": "¿Cuánto es 30 + 30?",
-    "options": ["60", "90", "120", "150"]
+    "title": "¿Qué creó Dios en el sexto día? (Gn 1:24-31)",
+    "options": [
+      "Los animales terrestres y al hombre",
+      "Los animales marinos y las aves",
+      "El sol, la luna y las estrellas"
+    ]
   },
   "16": {
-    "title": "¿Cuánto es 32 + 32?",
-    "options": ["64", "96", "128", "160"]
+    "title": "Dios le prohibió a Adán comer del árbol del conocimiento del bien y del mal (Gn 2:17)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "17": {
-    "title": "¿Cuánto es 34 + 34?",
-    "options": ["68", "102", "136", "170"]
+    "title": "¿Qué hizo Adán después de que Eva comió del fruto prohibido? (Gn 3:6)",
+    "options": [
+      "También comió del fruto",
+      "Regañó a su esposa",
+      "Atacó a la serpiente por engañar a Eva"
+    ]
   },
   "18": {
-    "title": "¿Cuánto es 36 + 36?",
-    "options": ["72", "108", "144", "180"]
+    "title": "Cuando Dios vio que Adán y Eva habían comido del fruto prohibido, los expulsó del jardín del Edén. (Gn 3:23)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "19": {
-    "title": "¿Cuánto es 38 + 38?",
-    "options": ["76", "114", "152", "190"]
+    "title": "¿Qué nombre le pusieron Adán y Eva a su primer hijo? (Gn 4:1)",
+    "options": [
+      "Caín",
+      "Set",
+      "Abel"
+    ]
   },
   "20": {
-    "title": "¿Cuánto es 40 + 40?",
-    "options": ["80", "120", "160", "200"]
+    "title": "¿Qué profesión tenía Caín? (Gn 4:2)",
+    "options": [
+      "Agricultor",
+      "Pastor"
+    ]
   },
   "21": {
-    "title": "¿Cuánto es 42 + 42?",
-    "options": ["84", "126", "168", "210"]
+    "title": "Abel, el segundo hijo de Adán y Eva, era agricultor (Gn 4:2)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
   },
   "22": {
-    "title": "¿Cuánto es 44 + 44?",
-    "options": ["88", "132", "176", "220"]
+    "title": "Caín por matar a Abel fue condenado a vagar por la tierra y ser un fugitivo. (Gn 4:12)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "23": {
-    "title": "¿Cuánto es 46 + 46?",
-    "options": ["92", "138", "184", "230"]
+    "title": "¿Cuántos años vivió Adán en total? (Gn 5:5)",
+    "options": [
+      "930 años",
+      "150 años",
+      "130 años",
+      "700 años"
+    ]
   },
   "24": {
-    "title": "¿Cuánto es 48 + 48?",
-    "options": ["96", "144", "192", "240"]
+    "title": "Noé tuvo 3 hijos (Gn 9:18-27)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "25": {
-    "title": "¿Cuánto es 50 + 50?",
-    "options": ["100", "150", "200", "250"]
+    "title": "¿Cuánto tiempo duró el diluvio? (Gn 7:12)",
+    "options": [
+      "40 días y 40 noches",
+      "50 días y 50 noches",
+      "30 días y 30 noches"
+    ]
   },
   "26": {
-    "title": "¿Cuánto es 52 + 52?",
-    "options": ["104", "156", "208", "260"]
+    "title": "Lo primero que hizo Noé al salir del arca fue construir un altar y ofrecer sacrificios a Dios. (Gn 8:20)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "27": {
-    "title": "¿Cuánto es 54 + 54?",
-    "options": ["108", "162", "216", "270"]
+    "title": "¿Cómo se llamaba el hijo de Abraham y Sara? (Gn 21:3)",
+    "options": [
+      "Isaac",
+      "Ismael"
+    ]
   },
   "28": {
-    "title": "¿Cuánto es 56 + 56?",
-    "options": ["112", "168", "224", "280"]
+    "title": "¿Cuántos años vivió Matusalén? (Gn 5:26)",
+    "options": [
+      "969",
+      "909",
+      "929",
+      "949"
+    ]
   },
   "29": {
-    "title": "¿Cuánto es 58 + 58?",
-    "options": ["116", "174", "232", "290"]
+    "title": "¿De qué madera fue construida el Arca? (Gn 6:14)",
+    "options": [
+      "Gófer",
+      "Acacia",
+      "Cedro",
+      "Pino"
+    ]
   },
   "30": {
-    "title": "¿Cuánto es 60 + 60?",
-    "options": ["120", "180", "240", "300"]
+    "title": "¿Cómo se llamaba el Padre de Noé? (Gn 5:28-29)",
+    "options": [
+      "Lamec",
+      "Taré",
+      "Enoc",
+      "Cainán"
+    ]
   },
   "31": {
-    "title": "¿Cuánto es 62 + 62?",
-    "options": ["124", "186", "248", "310"]
+    "title": "¿Cuántas personas se salvaron en el arca de Noé? (Gn 7)",
+    "options": [
+      "8",
+      "9",
+      "6",
+      "7"
+    ]
   },
   "32": {
-    "title": "¿Cuánto es 64 + 64?",
-    "options": ["128", "192", "256", "320"]
+    "title": "¿De qué ciudad provenía Abraham? (Gn 11:27-31)",
+    "options": [
+      "Ur",
+      "Samaria",
+      "Cuz",
+      "Jericó"
+    ]
   },
   "33": {
-    "title": "¿Cuánto es 66 + 66?",
-    "options": ["132", "198", "264", "330"]
+    "title": "¿En qué lugar Abraham debía sacrificar a su hijo Isaac? (Gn 22:2)",
+    "options": [
+      "Moriah",
+      "Siquem",
+      "Param",
+      "Beersebá"
+    ]
   },
   "34": {
-    "title": "¿Cuánto es 68 + 68?",
-    "options": ["136", "204", "272", "340"]
+    "title": "¿Cuántos años trabajó Jacob en total para casarse con Raquel? (Gn 29)",
+    "options": [
+      "14",
+      "2",
+      "7",
+      "20"
+    ]
   },
   "35": {
-    "title": "¿Cuánto es 70 + 70?",
-    "options": ["140", "210", "280", "350"]
+    "title": "¿Cuántos años tenía José cuando su padre le hizo una túnica de colores? (Gn 37:1-5)",
+    "options": [
+      "17",
+      "16",
+      "20",
+      "18"
+    ]
   },
   "36": {
-    "title": "¿Cuánto es 72 + 72?",
-    "options": ["144", "216", "288", "360"]
+    "title": "¿Por cuántas piezas de Plata fue vendido José? (Gn 37:28)",
+    "options": [
+      "20",
+      "50",
+      "40",
+      "30"
+    ]
   },
   "37": {
-    "title": "¿Cuánto es 74 + 74?",
-    "options": ["148", "222", "296", "370"]
+    "title": "¿Cómo se llamaba la nuera de Judá? (Gn 38:6)",
+    "options": [
+      "Tamar",
+      "Sara",
+      "Súa",
+      "Raquel"
+    ]
   },
   "38": {
-    "title": "¿Cuánto es 76 + 76?",
-    "options": ["152", "228", "304", "380"]
+    "title": "¿A qué hombre José le dijo que sería restituido a su puesto oficial? (Gn 40:9-15)",
+    "options": [
+      "Copero",
+      "Panadero",
+      "Faraón",
+      "Potifar"
+    ]
   },
   "39": {
-    "title": "¿Cuánto es 78 + 78?",
-    "options": ["156", "234", "312", "390"]
+    "title": "¿Cuántos años tenía José cuando comenzó a trabajar para Faraón? (Gn 41:46)",
+    "options": [
+      "30",
+      "25",
+      "40",
+      "35"
+    ]
   },
   "40": {
-    "title": "¿Cuánto es 80 + 80?",
-    "options": ["160", "240", "320", "400"]
+    "title": "¿Cuántos días permanecieron los hermanos de José en la cárcel? (Gn 42:17)",
+    "options": [
+      "3",
+      "5",
+      "4",
+      "2"
+    ]
   },
   "41": {
-    "title": "¿Cuánto es 82 + 82?",
-    "options": ["164", "246", "328", "410"]
+    "title": "¿Cómo se llamaban los hijos de Noé?  (Gn 7:13)",
+    "options": [
+      "Sem, Cam y Jafet",
+      "Cam y Jafet",
+      "Esaú, Cam y Jafet",
+      "Ismael, Esaú y Cam"
+    ]
   },
   "42": {
-    "title": "¿Cuánto es 84 + 84?",
-    "options": ["168", "252", "336", "420"]
+    "title": "¿De qué se curaron las mujeres de la casa de Abimelec cuando Abraham oró a Dios?  (Gn 20:17-18)",
+    "options": [
+      "De esterilidad",
+      "De lepra",
+      "De ceguera"
+    ]
   },
   "43": {
-    "title": "¿Cuánto es 86 + 86?",
-    "options": ["172", "258", "344", "430"]
+    "title": "¿Qué no hizo el criado de Abraham al llegar a la casa de Laban? (Gn 24:33)",
+    "options": [
+      "Lavarse los pies",
+      "Sentarse",
+      "Comer"
+    ]
   },
   "44": {
-    "title": "¿Cuánto es 88 + 88?",
-    "options": ["176", "264", "352", "440"]
+    "title": "¿Con quién se casó Abraham luego de la muerte de Sara?  (Gn 25:1)",
+    "options": [
+      "Cetura",
+      "No se volvió a casar",
+      "María",
+      "Lea"
+    ]
   },
   "45": {
-    "title": "¿Cuánto es 90 + 90?",
-    "options": ["180", "270", "360", "450"]
+    "title": "¿Cuántos años tenía Abraham cuando murió?  (Gn 25:7)",
+    "options": [
+      "175",
+      "190",
+      "275",
+      "300"
+    ]
   },
   "46": {
-    "title": "¿Cuánto es 92 + 92?",
-    "options": ["184", "276", "368", "460"]
+    "title": "¿Quién fue el padre de Abraham? (Gn 11:27)",
+    "options": [
+      "Taré",
+      "Enoc",
+      "Jacob",
+      "Adán"
+    ]
   },
   "47": {
-    "title": "¿Cuánto es 94 + 94?",
-    "options": ["188", "282", "376", "470"]
+    "title": "¿Dónde estaba Abraham cuando el Señor le dijo: \"Vete de tu país y de tu familia y de la casa de tu padre a la tierra que te mostraré\"? (Gn 12:1-4)",
+    "options": [
+      "Harán",
+      "Siquem",
+      "Siglar",
+      "Ur de los Caldeos"
+    ]
   },
   "48": {
-    "title": "¿Cuánto es 96 + 96?",
-    "options": ["192", "288", "384", "480"]
+    "title": "¿Qué edad tenía Abraham cuando nació Isaac? (Gn 21:5)",
+    "options": [
+      "100 años",
+      "73 años",
+      "75 años",
+      "120 años"
+    ]
   },
   "49": {
-    "title": "¿Cuánto es 98 + 98?",
-    "options": ["196", "294", "392", "490"]
+    "title": "Isaac era el esposo de Rebeca (Gn 24:67)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "50": {
-    "title": "¿Cuánto es 100 + 100?",
-    "options": ["200", "300", "400", "500"]
+    "title": "Esaú tuvo un sueño en el cual una escalera que llega al cielo y ángeles que ascienden y descienden por ella (Gn 28:10)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
   },
   "51": {
-    "title": "¿Cuánto es 102 + 102?",
-    "options": ["204", "306", "408", "510"]
+    "title": "¿Qué edad tenía José cuando entró al servicio del faraón, rey de Egipto? (Gn 41:46)",
+    "options": [
+      "30 años",
+      "40 años",
+      "35 años",
+      "25 años"
+    ]
   },
   "52": {
-    "title": "¿Cuánto es 104 + 104?",
-    "options": ["208", "312", "416", "520"]
+    "title": "¿Quiénes fueron los dos hijos de José? (Gn 41:50-52)",
+    "options": [
+      "Manasés y Efraín",
+      "Judá y Manasés",
+      "Efraís y Judá"
+    ]
   },
   "53": {
-    "title": "¿Cuánto es 106 + 106?",
-    "options": ["212", "318", "424", "530"]
+    "title": "Cuando Jacob se enteró durante la hambruna que había grano para la venta en Egipto, envió a sus hijos menos a: (Gn 42:4)",
+    "options": [
+      "Benjamín",
+      "Simeón",
+      "Rubén",
+      "Judá"
+    ]
   },
   "54": {
-    "title": "¿Cuánto es 108 + 108?",
-    "options": ["216", "324", "432", "540"]
+    "title": "¿Qué edad tenía José cuando murió? (Gn 50:26)",
+    "options": [
+      "110 años",
+      "100 años",
+      "99 años",
+      "22 años"
+    ]
   },
   "55": {
-    "title": "¿Cuánto es 110 + 110?",
-    "options": ["220", "330", "440", "550"]
+    "title": "¿Cómo se llamaba el tercer hijo de Adán y Eva? (Gn 4:25)",
+    "options": [
+      "Set",
+      "Abel",
+      "Noé"
+    ]
   },
   "56": {
-    "title": "¿Cuánto es 112 + 112?",
-    "options": ["224", "336", "448", "560"]
+    "title": "¿Cuántos años tenía Adán cuando nació Set? (Gn 5:3)",
+    "options": [
+      "130 años",
+      "150 años"
+    ]
   },
   "57": {
-    "title": "¿Cuánto es 114 + 114?",
-    "options": ["228", "342", "456", "570"]
+    "title": "El primer nieto de Adán y Eva fue Enoc (Gn 4:17)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "58": {
-    "title": "¿Cuánto es 116 + 116?",
-    "options": ["232", "348", "464", "580"]
+    "title": "Enoc vivió 475 años (Gn: 5:23)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
   },
   "59": {
-    "title": "¿Cuánto es 118 + 118?",
-    "options": ["236", "354", "472", "590"]
+    "title": "El monte donde se posó el arca después del diluvio fue el monte Ararat (Gn 8:4)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "60": {
-    "title": "¿Cuánto es 120 + 120?",
-    "options": ["240", "360", "480", "600"]
+    "title": "Cómo se llamaba el hijo de Cam que fue maldecido por Noé?  (Gn 9:20-27)",
+    "options": [
+      "Canaán",
+      "Set",
+      "Jafet"
+    ]
   },
   "61": {
-    "title": "¿Cuánto es 122 + 122?",
-    "options": ["244", "366", "488", "610"]
+    "title": "Abraham nació en Egipto (Gn 11:28)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
   },
   "62": {
-    "title": "¿Cuánto es 124 + 124?",
-    "options": ["248", "372", "496", "620"]
+    "title": "¿Cuál era la nacionalidad de Agar, la sierva de Sara? (Gn 16:1)",
+    "options": [
+      "Egipcia",
+      "Filistea",
+      "Moabita",
+      "Madianita"
+    ]
   },
   "63": {
-    "title": "¿Cuánto es 126 + 126?",
-    "options": ["252", "378", "504", "630"]
+    "title": "¿Cómo se llamaba el suegro de Jacob? (Gn 29)",
+    "options": [
+      "Labán",
+      "Jetro",
+      "Siquem",
+      "Mardoqueo"
+    ]
   },
   "64": {
-    "title": "¿Cuánto es 128 + 128?",
-    "options": ["256", "384", "512", "640"]
+    "title": "¿Cómo se llamaba la hija de Jacob que fue deshonrada por Siquem? (Gn 34:5)",
+    "options": [
+      "Dina",
+      "Lea",
+      "María",
+      "Zilpa"
+    ]
   },
   "65": {
-    "title": "¿Cuánto es 130 + 130?",
-    "options": ["260", "390", "520", "650"]
+    "title": "¿Qué hermano intercedió delante de José por Benjamín? (Gn 43)",
+    "options": [
+      "Judá",
+      "Rubén",
+      "Leví",
+      "Simeón"
+    ]
   },
   "66": {
-    "title": "¿Cuánto es 132 + 132?",
-    "options": ["264", "396", "528", "660"]
+    "title": "¿En qué lugar se encontraron finalmente José y su padre Jacob? (Gn 46:28-29)",
+    "options": [
+      "Gosén",
+      "Beerseba",
+      "Canaán",
+      "Dotán"
+    ]
   },
   "67": {
-    "title": "¿Cuánto es 134 + 134?",
-    "options": ["268", "402", "536", "670"]
+    "title": "¿Cómo se llamaban los 4 ríos menores que nacían del jardín del edén? (Gn 2:10-13)",
+    "options": [
+      "Pisón, Guijón, Tigris,  Éufrates",
+      "Pisón, Nilo, Tigris,  Éufrates",
+      "Éufrates, Jordán, Pisón, Tigris"
+    ]
   },
   "68": {
-    "title": "¿Cuánto es 136 + 136?",
-    "options": ["272", "408", "544", "680"]
+    "title": "¿Cuánto pagó Abraham por la cueva de Macpela para enterrar a Sara?  (Gn 23:16)",
+    "options": [
+      "Cuatrocientas monedas de plata",
+      "Le regalaron el campo, no pagó nada",
+      "Quinientas monedas de plata",
+      "Mil monedas de plata"
+    ]
   },
   "69": {
-    "title": "¿Cuánto es 138 + 138?",
-    "options": ["276", "414", "552", "690"]
+    "title": "¿Qué nombre le puso el faraón a José?  (Gn 41:45)",
+    "options": [
+      "Zafenat Panea",
+      "Rubén",
+      "No le cambió el nombre"
+    ]
   },
   "70": {
-    "title": "¿Cuánto es 140 + 140?",
-    "options": ["280", "420", "560", "700"]
+    "title": "¿Cuántos días guardaron luto los egipcios por la muerte de Jacob? (Gn 50:3)",
+    "options": [
+      "70 días",
+      "40 días",
+      "50 días",
+      "0 días"
+    ]
   },
   "71": {
-    "title": "¿Cuánto es 142 + 142?",
-    "options": ["284", "426", "568", "710"]
+    "title": "¿Quiénes fueron los padres de Ismael? (Gn 16:15)",
+    "options": [
+      "Abraham y Agar",
+      "Abraham y Sarai",
+      "Noé y Sarai"
+    ]
   },
   "72": {
-    "title": "¿Cuánto es 144 + 144?",
-    "options": ["288", "432", "576", "720"]
+    "title": "¿Qué edad tenía Abraham cuando fue circuncidado?  (Gn 17:24)",
+    "options": [
+      "99 años",
+      "90 años",
+      "75 años"
+    ]
   },
   "73": {
-    "title": "¿Cuánto es 146 + 146?",
-    "options": ["292", "438", "584", "730"]
+    "title": "¿Qué edad tenía Ismael cuando fue circuncidado? (Gn 17:25)",
+    "options": [
+      "13 años",
+      "7 días",
+      "12 años",
+      "8 días"
+    ]
   },
   "74": {
-    "title": "¿Cuánto es 148 + 148?",
-    "options": ["296", "444", "592", "740"]
+    "title": "¿En qué lugar se le apareció Dios a Abraham?  Aquí recibió a tres hombres y les sirvió comida. (Gn 18:1)",
+    "options": [
+      "En el encinar de Mamre",
+      "Ur de los Caldeos",
+      "Cannaán",
+      "Harán"
+    ]
   },
   "75": {
-    "title": "¿Cuánto es 150 + 150?",
-    "options": ["300", "450", "600", "750"]
+    "title": "¿En qué ciudad murió Sara? (Gn 23:2)",
+    "options": [
+      "En Quiriat-arba, que es Hebrón",
+      "En Ur de los Caldeos",
+      "En Harán"
+    ]
   },
   "76": {
-    "title": "¿Cuánto es 152 + 152?",
-    "options": ["304", "456", "608", "760"]
+    "title": "¿Quién era el hermano de Rebeca, que saludó al siervo de Abraham que fue enviado por éste a buscar una esposa para Isaac? (Gn 24:29)",
+    "options": [
+      "Labán",
+      "Rubén",
+      "Eleazar",
+      "Eliú"
+    ]
   },
   "77": {
-    "title": "¿Cuánto es 154 + 154?",
-    "options": ["308", "462", "616", "770"]
+    "title": "¿Quién fue el padre de Lea y Raquel? (Gn 26:16)",
+    "options": [
+      "Labán",
+      "Lamec",
+      "Jacob",
+      "Bilha"
+    ]
   },
   "78": {
-    "title": "¿Cuánto es 156 + 156?",
-    "options": ["312", "468", "624", "780"]
+    "title": "Jacob luchó con un hombre, lo que resultó en que la articulación de su cadera se desarticulara. ¿Cómo llamó Jacob a este lugar? (Gn 32:30)",
+    "options": [
+      "Peniel",
+      "Judá",
+      "Mahanaim",
+      "Betel"
+    ]
   },
   "79": {
-    "title": "¿Cuánto es 158 + 158?",
-    "options": ["316", "474", "632", "790"]
+    "title": "Dina fue la hija de Jacob y Lea (Gn 34)",
+    "options": [
+      "Falso"
+    ]
   },
   "80": {
-    "title": "¿Cuánto es 160 + 160?",
-    "options": ["320", "480", "640", "800"]
+    "title": "¿Quién fue el hijo de Hamor el heveo, que quiso hacer a Dina su mujer? (Gn 34:2)",
+    "options": [
+      "Siquem",
+      "Simeón",
+      "Leví",
+      "Zabulón"
+    ]
   },
   "81": {
-    "title": "¿Cuánto es 162 + 162?",
-    "options": ["324", "486", "648", "810"]
+    "title": "El lugar donde Jacob edificó un altar, porque Dios se le apareció allí cuando huía de Esaú se llamó Peniel (Gn 25:6)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
   },
   "82": {
-    "title": "¿Cuánto es 164 + 164?",
-    "options": ["328", "492", "656", "820"]
+    "title": "“No derrames sangre; echadlo en este hoyo aquí en el desierto, pero no pongáis mano sobre él.” ¿Quién dijo estas palabras para evitar que sus hermanos mataran a José? (Gn 37:22)",
+    "options": [
+      "Rubén",
+      "Simeon",
+      "Zabulon",
+      "Isacar"
+    ]
   },
   "83": {
-    "title": "¿Cuánto es 166 + 166?",
-    "options": ["332", "498", "664", "830"]
+    "title": "Los madianitas vendieron a José a Potifar (Gn 37:36)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
   },
   "84": {
-    "title": "¿Cuánto es 168 + 168?",
-    "options": ["336", "504", "672", "840"]
+    "title": "¿Cómo se llamaba el lugar en el que José saludó a Jacob su padre, cuando Jacob y su familia vino a Egipto? (Gn 246: 28 -29)",
+    "options": [
+      "Gosén",
+      "Siquem",
+      "Beerseba"
+    ]
   },
   "85": {
-    "title": "¿Cuánto es 170 + 170?",
-    "options": ["340", "510", "680", "850"]
+    "title": "Cuando llegó la hambruna, Jacob y sus hijos siguieron a José a Egipto. Pero ¿dónde vivían antes de mudarse a Egipto?  (Gn 46:31)",
+    "options": [
+      "Canaán",
+      "Jerusalén",
+      "Samaria",
+      "Siria"
+    ]
   },
   "86": {
-    "title": "¿Cuánto es 172 + 172?",
-    "options": ["344", "516", "688", "860"]
-  },
-  "87": {
-    "title": "¿Cuánto es 174 + 174?",
-    "options": ["348", "522", "696", "870"]
-  },
-  "88": {
-    "title": "¿Cuánto es 176 + 176?",
-    "options": ["352", "528", "704", "880"]
-  },
-  "89": {
-    "title": "¿Cuánto es 178 + 178?",
-    "options": ["356", "534", "712", "890"]
-  },
-  "90": {
-    "title": "¿Cuánto es 180 + 180?",
-    "options": ["360", "540", "720", "900"]
-  },
-  "91": {
-    "title": "¿Cuánto es 182 + 182?",
-    "options": ["364", "546", "728", "910"]
-  },
-  "92": {
-    "title": "¿Cuánto es 184 + 184?",
-    "options": ["368", "552", "736", "920"]
-  },
-  "93": {
-    "title": "¿Cuánto es 186 + 186?",
-    "options": ["372", "558", "744", "930"]
-  },
-  "94": {
-    "title": "¿Cuánto es 188 + 188?",
-    "options": ["376", "564", "752", "940"]
-  },
-  "95": {
-    "title": "¿Cuánto es 190 + 190?",
-    "options": ["380", "570", "760", "950"]
-  },
-  "96": {
-    "title": "¿Cuánto es 192 + 192?",
-    "options": ["384", "576", "768", "960"]
-  },
-  "97": {
-    "title": "¿Cuánto es 194 + 194?",
-    "options": ["388", "582", "776", "970"]
-  },
-  "98": {
-    "title": "¿Cuánto es 196 + 196?",
-    "options": ["392", "588", "784", "980"]
-  },
-  "99": {
-    "title": "¿Cuánto es 198 + 198?",
-    "options": ["396", "594", "792", "990"]
-  },
-  "100": {
-    "title": "¿Cuánto es 200 + 200?",
-    "options": ["400", "600", "800", "1000"]
+    "title": "¿Cuántos años vivió Jacob en Egipto? (Gn 47:28)",
+    "options": [
+      "17 años",
+      "110 años",
+      "32 años",
+      "2 años"
+    ]
   }
 }
