@@ -10,7 +10,7 @@
       "name": "Medio",
       "img": "",
       "minScore": 0,
-      "levels": [2]
+      "levels": [2, 4]
     },
     "3": {
       "name": "Difícil",
@@ -37,6 +37,12 @@
       "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
       "questions": [62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86],
       "minScore": 0
-    }
+    },
+    "4": {
+      "title": "Libro de los Hechos",
+      "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
+      "questions": [87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99],
+      "minScore": 1
+    },
   }
 }
