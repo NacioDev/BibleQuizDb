@@ -4,19 +4,19 @@
       "name": "Fácil",
       "img": "",
       "minScore": 0,
-      "levels": [1]
+      "levels": [1, 5]
     },
     "2": {
       "name": "Medio",
       "img": "",
       "minScore": 0,
-      "levels": [2, 4]
+      "levels": [2, 4, 6]
     },
     "3": {
       "name": "Difícil",
       "img": "",
       "minScore": 0,
-      "levels": [3]
+      "levels": [3, 7]
     }
   },
   "levels": {
@@ -42,6 +42,24 @@
       "title": "Libro de los Hechos",
       "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
       "questions": [87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99],
+      "minScore": 1
+    },
+    "5": {
+      "title": "Éxodo",
+      "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
+      "questions": [100, 101, 102, 103, 104, 105, 106, 107, 108, 109, 110, 111, 112],
+      "minScore": 1
+    },
+    "6": {
+      "title": "Éxodo",
+      "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
+      "questions": [113, 114, 115, 116, 117, 118, 119, 120, 121, 122, 123, 124, 125],
+      "minScore": 1
+    },
+    "7": {
+      "title": "Éxodo",
+      "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
+      "questions": [125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138],
       "minScore": 1
     }
   }
