@@ -21,7 +21,7 @@
   },
   "levels": {
     "1": {
-      "title": "Tesalonicensesq",
+      "title": "Génesis",
       "img": "https://cdn.pixabay.com/photo/2020/01/20/05/32/jesus-4779543_1280.jpg",
       "questions": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27],
       "minScore": 0
@@ -39,7 +39,7 @@
       "minScore": 0
     },
     "4": {
-      "title": "Tesalonicensesq",
+      "title": "Hechos Apóstoles",
       "img": "https://cdn.pixabay.com/photo/2020/01/20/05/34/jesus-4779544_1280.jpg",
       "questions": [87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98, 99],
       "minScore": 1
