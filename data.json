@@ -716,5 +716,122 @@
       "32 años",
       "2 años"
     ]
+  },
+  "87": {
+    "title": "¿Cuánto tiempo se apareció Jesús a sus discípulos antes de ascender a los cielos? (Hch 1:3)",
+    "options": [
+      "40 días",
+      "20 días",
+      "50 días",
+      "30 días"
+    ]
+  },
+  "88": {
+    "title": "¿Quién fue elegido como Apóstol en reemplazo de Judas Iscariote? (Hch 1:26)",
+    "options": [
+      "Matías",
+      "Barsabás",
+      "Justo",
+      "José"
+    ]
+  },
+  "89": {
+    "title": "¿Cómo se llamaba el hombre que practicaba la magia en Samaria? (Hch 8:9)",
+    "options": [
+      "Simón",
+      "Filemón",
+      "Alejandro",
+      "Himeneo"
+    ]
+  },
+  "90": {
+    "title": "¿Qué significado tiene el término \"acéldama\" (Hch 1:19)",
+    "options": [
+      "Campo de sangre",
+      "Campo grande",
+      "Campo ancho",
+      "Campo de Dios"
+    ]
+  },
+  "91": {
+    "title": "¿Cuánto tiempo había estado lisiado el cojo que sanaron Pedro y Juan? (Hch 4:22)",
+    "options": [
+      "40 años",
+      "30 días",
+      "40 días",
+      "40 años"
+    ]
+  },
+  "92": {
+    "title": "¿Cómo se llamó el hombre que decía ser alguien importante, y al cual se le unieron unos 400 hombres? (Hch 5:36)",
+    "options": [
+      "Teudas",
+      "Barsabás",
+      "Filemón",
+      "No se sabe"
+    ]
+  },
+  "93": {
+    "title": "¿De qué lugar era José, llamado Bernabé, el cual vendió su heredad y le dio a los Apóstoles? (Hch 4:36)",
+    "options": [
+      "Chipre",
+      "Siria",
+      "Jerusalén",
+      "Malta"
+    ]
+  },
+  "94": {
+    "title": "¿Quién NO fue elegido entre los 7 diáconos para atender a las viudas? (Hch 6:5)",
+    "options": [
+      "Epafras",
+      "Nicanor",
+      "Felipe",
+      "Prócoro"
+    ]
+  },
+  "95": {
+    "title": "¿A qué hora del día sucedió el derramamiento o venida del Espíritu Santo? (Hch 2:5)",
+    "options": [
+      "Hora tercera",
+      "Hora segunda",
+      "Hora sexta",
+      "Hora novena"
+    ]
+  },
+  "96": {
+    "title": "¿Cómo se llamaba la reina de los etíopes, de quien el eunuco era funcionario? (Hch 8:27)",
+    "options": [
+      "Candace",
+      "Makeda",
+      "Gigar",
+      "Baeda"
+    ]
+  },
+  "97": {
+    "title": "¿Quién predicó a Cristo en Samaria? (Hch 8:5)",
+    "options": [
+      "Felipe",
+      "Pablo",
+      "Pedro",
+      "Andrés"
+    ]
+  },
+  "98": {
+    "title": "¿Qué hizo Saulo enseguida luego de recibir la vista? (Hch 9:18)",
+    "options": [
+      "Se levantó y fue bautizado",
+      "Oró",
+      "Oró y ayunó",
+      "Fue a ver a los otros apóstoles"
+    ]
+  },
+  "99": {
+    "title": "¿Quién fue enviado a Antioquía desde la iglesia de Jerusalén? (Hch 11:22)",
+    "options": [
+      "Bernabé",
+      "Felipe",
+      "Nadie",
+      "Pablo"
+    ]
   }
 }
