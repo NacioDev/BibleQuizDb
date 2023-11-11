@@ -833,5 +833,323 @@
       "Nadie",
       "Pablo"
     ]
+  },
+  "100": {
+    "title": "¿Dónde debían ser echados los niños hebreos por mandato del faraón? (Éxodo 1:22)",
+    "options": [
+      "En el río",
+      "En fosas",
+      "En el mar"
+    ]
+  },
+  "101": {
+    "title": "¿De qué tribu era Moisés? (Éxodo 2:1)",
+    "options": [
+      "Leví",
+      "Dan",
+      "Judá",
+      "Neftalí"
+    ]
+  },
+  "102": {
+    "title": "¿Cuál es el significado del nombre Moisés? (Éxodo 2:10)",
+    "options": [
+      "Sacado de las aguas",
+      "Hijo de Dios",
+      "Ungido",
+      "Hijo de Rey"
+    ]
+  },
+  "103": {
+    "title": "¿Cuál fue el pecado por el cual Moisés huyó de Egipto? (Éxodo 2:12)",
+    "options": [
+      "Homicidio",
+      "Mentir al Faraón",
+      "Faraón descubrió que no era egipcio",
+      "Profanó una tumba"
+    ]
+  },
+  "104": {
+    "title": "¿Cómo se llamó la esposa de Moisés? (Éxodo 2:21)",
+    "options": [
+      "Séfora",
+      "María",
+      "Miriam",
+      "Moisés nunca se casó"
+    ]
+  },
+  "105": {
+    "title": "Dios se le apareció a Moisés en el Monte Horeb (Éxodo 3:1 -2)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "106": {
+    "title": "Dios ofreció a Aaron para que fuese el portavoz de Moisés (Éxodo 4: 14-6)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "107": {
+    "title": "¿Cuántas plagas envió Dios a Egipto para liberar al pueblo de Israel? (Éxodo 7-11)",
+    "options": [
+      "1",
+      "8",
+      "11",
+      "13"
+    ]
+  },
+  "108": {
+    "title": "¿Cuál fue la primera plaga que Dios envió a Egipto? (Éxodo 7:14-21)",
+    "options": [
+      "La plaga de sangre",
+      "La plaga de las ranas",
+      "La plaga de langostas",
+      "Las plaga de las moscas"
+    ]
+  },
+  "109": {
+    "title": "¿Cuál de las plagas enviadas a Egipto duró 3 días? (Éxodo 10:21-23)",
+    "options": [
+      "La plaga de las tinieblas",
+      "La plaga de langostas",
+      "Muerte de los primogénitos",
+      "La plaga del granizo"
+    ]
+  },
+  "110": {
+    "title": "¿Cuántos días estuvo Moisés en el Monte Sinaí? (Éxodo 24:18)",
+    "options": [
+      "40 días y 40 noches",
+      "50 días y 50 noches",
+      "45 días y 45 noches",
+      "3 días y 3 noches"
+    ]
+  },
+  "111": {
+    "title": "¿Qué mandó Dios a levantar como un santuario en medio de su pueblo? (Éxodo 25:8-9)",
+    "options": [
+      "Un tabernáculo",
+      "Un montículo de piedra",
+      "Una serpiente de bronce.",
+      "Ninguna de las anteriores"
+    ]
+  },
+  "112": {
+    "title": "En el desierto, los israelitas adoraron un becerro de oro (Éxodo 32:4)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "113": {
+    "title": "¿Cuántos descendientes de Jacob entraron a vivir en Egipto? (Éxodo 1:5)",
+    "options": [
+      "70 personas",
+      "1 millón",
+      "2  millones",
+      "10 personas"
+    ]
+  },
+  "114": {
+    "title": "¿Cuánto tiempo fue escondido Moisés cuando era niño? (Éxodo 2:2)",
+    "options": [
+      "3 meses",
+      "6 meses",
+      "1 año",
+      "No se conoce con exactitud"
+    ]
+  },
+  "115": {
+    "title": "¿Cómo se llamó el 1er hijo de Moisés? (Éxodo 2:22)",
+    "options": [
+      "Gersón",
+      "Jacob",
+      "Bilha",
+      "Rubén"
+    ]
+  },
+  "116": {
+    "title": "¿Cómo se llamaba el suegro de Moisés? (Éxodo 3:1)",
+    "options": [
+      "Jetro",
+      "Simeon",
+      "Zabulon",
+      "Isacar"
+    ]
+  },
+  "117": {
+    "title": "\"Jehová - Jired\" fue el nombre con el que Dios se le reveló a Moisés para que lo diera a conocer a Su pueblo (Éxodo 3:14)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
+  },
+  "118": {
+    "title": "Después de la plaga de las moscas, el faraón ofreció un compromiso a Moisés (Éxodo 8:24-25)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "119": {
+    "title": "Los hijos de Moisés fueron escogidos por Dios para el sacerdocio (Éxodo 28:1)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
+  },
+  "120": {
+    "title": "Cuántos hombres murieron a mano de los levitas después del pecado de idolatría (Éxodo 32:28)",
+    "options": [
+      "3 mil personas",
+      "Ninguno pues fueron perdonados",
+      "300 personas"
+    ]
+  },
+  "121": {
+    "title": "¿Cuántos capítulos tiene el libro de Éxodo? (Éxodo)",
+    "options": [
+      "40 capítulos",
+      "50 capítulos",
+      "42 capítulos"
+    ]
+  },
+  "122": {
+    "title": "Israel celebraba 3 fiestas anuales (Éxodo 23:14)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "123": {
+    "title": "Un velo dividía el lugar santo del lugar santísimo (Éxodo 26:33)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "124": {
+    "title": "Moisés alisó el segundo juego de tablas de piedra (Éxodo 34:1)",
+    "options": [
+      "Verdadero",
+      "Falso"
+    ]
+  },
+  "125": {
+    "title": "¿El éxodo de los israelitas de Egipto fue después de la institución de qué fiesta judía? (Éxodo 12:1-­14)",
+    "options": [
+      "La Pascua",
+      "La Fiesta de los Tabernáculos",
+      "Yom Kipur"
+    ]
+  },
+  "126": {
+    "title": "¿Cuántas hijas tenía Jetro (Éxodo 2:16)",
+    "options": [
+      "7 hijas",
+      "12 hijas",
+      "3 hijas",
+      "No tenía nunguna hija, sólo hijos"
+    ]
+  },
+  "127": {
+    "title": "¿Cuál fue la razón por la que Dios quiso matar a Moisés en el desierto? (Éxodo 4:24-26)",
+    "options": [
+      "La circunsición",
+      "Moisés golpeó la roca",
+      "Por la idolatría de Israel",
+      "Dios nunca quizo matar a Moisés"
+    ]
+  },
+  "128": {
+    "title": "¿Cómo se llamaba el padre Moisés? (Éxodo 6:20)",
+    "options": [
+      "Amrám",
+      "Jetro",
+      "Noé",
+      "Se desconoce"
+    ]
+  },
+  "129": {
+    "title": "¿Cuántos años tenía Moisés cuando habló por primera vez a Faraón? (Éxodo 7:7)",
+    "options": [
+      "80 años",
+      "15 años",
+      "7 años",
+      "85 años"
+    ]
+  },
+  "130": {
+    "title": "¿En qué año debía los israelitas dejar libre la tierra para que coman los pobres y los animales? (Éxodo 23:11)",
+    "options": [
+      "En el septimo año",
+      "En el octavo año",
+      "En el tercer año"
+    ]
+  },
+  "131": {
+    "title": "El Arca de la Alianza fue hecha con madera de sicomoro (Éxodo 25:10)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
+  },
+  "132": {
+    "title": "¿Qué objeto debía colocarse encima del Arca de la Alianza? (Éxodo 25:21)",
+    "options": [
+      "El propiciatorio",
+      "La vara de Aarón que reverdeció",
+      "Las dos tablas de piedra con los Diez Mandamientos"
+    ]
+  },
+  "133": {
+    "title": "El candelero estaba hecho de Plata (Éxodo 25:31)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
+  },
+  "134": {
+    "title": "¿De qué colores debían ser las cortinas del Tabernáculo? (Éxodo 26:1)",
+    "options": [
+      "Azul, Púrpura y Carmesí",
+      "Púrpura y carmesí",
+      "Rojo y carmesí"
+    ]
+  },
+  "135": {
+    "title": "Si un sacerdote ofrecía una ofrenda sin haber lavado, era reemplazado por otro (Éxodo 30:20)",
+    "options": [
+      "Falso",
+      "Verdadero"
+    ]
+  },
+  "136": {
+    "title": "¿A quién llamó Dios para hacer los objetos del tabernáculo y del sacerdocio? (Éxodo 31:2-11)",
+    "options": [
+      "A Bezaleel",
+      "Verdadero",
+      "Falso",
+      "A Aarón"
+    ]
+  },
+  "137": {
+    "title": "¿Cómo se llamaba el servidor de Moisés hijo de Nun? (Éxodo 33:11)",
+    "options": [
+      "Josué",
+      "Aaron",
+      "María"
+    ]
+  },
+  "138": {
+    "title": "¿Quién era la hermana de Aarón, que llevaba una pandereta en la mano y cantaba al Señor? (Éxodo 15:20)",
+    "options": [
+      "María",
+      "Tamar",
+      "Betsabé"
+    ]
   }
 }
